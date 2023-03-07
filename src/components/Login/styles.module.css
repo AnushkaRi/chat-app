@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap");
+
+.page {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  font-size: 1.8rem;
+  color: #fff;
+  letter-spacing: 3px;
+  margin: 0;
+  position: relative;
+  top: 125px;
+}
+
+.container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 130px;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: #c8b3c64f;
+  gap: 15px;
+  position: relative;
+  top: 200px;
+  margin: auto;
+}
+
+.label {
+  font-size: 1.2rem;
+  color: #fff;
+  font-weight: 500;
+}
+
+.input {
+  padding: 5px;
+  font-size: 1.2rem;
+  border-radius: 8px;
+  border: 3px solid #32bcfc;
+}
+
+.btn {
+  font-size: 1.2rem;
+  background-color: #32bcfc;
+  color: #fff;
+  text-align: center;
+  border: none;
+  padding: 6px;
+  border-radius: 8px;
+  width: 75px;
+}
+
+.neontext {
+  color: #fff;
+  font-family: "Neonderthaw", cursive;
+  font-size: 4.5rem;
+  font-weight: 700;
+  text-shadow: 0 0 7px #32bcfc, 0 0 10px #ffff, 0 0 21px #32bcfc, 0 0 42px #32bcfc, 0 0 82px #32bcfc, 0 0 92px #32bcfc;
+}
+
+.error {
+  color: #32bcfc;
+  font-size: 1.3rem;
+  font-weight: 700;
+  height: 35px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .header {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+}

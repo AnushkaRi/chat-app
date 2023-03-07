@@ -1,0 +1,8 @@
+.panel {
+  grid-area: panel;
+  display: flex;
+  flex-flow: column nowrap;
+  width: 100%;
+  gap: 15px;
+  overflow: auto;
+}

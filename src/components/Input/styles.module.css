@@ -1,0 +1,28 @@
+.container {
+  grid-area: input;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 20px auto 40px;
+}
+
+.input {
+  padding: 5px;
+  font-size: 1.2rem;
+  border-radius: 8px;
+  border: 3px solid #f09;
+  flex-grow: 1;
+  margin-left: 20px;
+}
+
+.btn {
+  padding: 6px;
+  font-size: 1.2rem;
+  background-color: #f09;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  margin-left: 10px;
+  margin-right: 16px;
+  text-align: center;
+}
