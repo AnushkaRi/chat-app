@@ -18,6 +18,6 @@ Chat features :
 - Generating random color for user's avatar image 
 - Sidebar displaying who's online
 - Input for sending messages
-- Panel displaying messages from all active users
+- Panel displaying messages from all the active users
 
 ![chat](https://github.com/AnushkaRi/chat-app/assets/93154379/3e5d5f3c-a508-4fb3-b382-22daf66daca6)
