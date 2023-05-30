@@ -1,9 +1,23 @@
 # Chat App - Algebra Final Project
 
-A single-page chat application built with React and Scaledrone.
+A single-page chat application built with React and Scaledrone. Scaledrone is a library for simple implementation of chat funcionality and realtime messaging service.
 
-Technologies used: React.js, Redux and Scaledrone.
+Technologies used: React.js, Redux, Router and Scaledrone.
 
-This project was build within 12 days of learning React.js and Redux by doing and coding. The result represents core features of a social network.
+This project was build by doing and coding. The result represents core features of a web chat application.
 
-For me this was a good opportunity to gather more practical experience with asychronous JavaScript (using Promises and async/await) as well as with database queries - and to explore React, a very powerful framework for building single-page applications.
+# App Features in details
+## Login Page
+Login in with username of your choice. 
+
+![login](https://github.com/AnushkaRi/chat-app/assets/93154379/ed6c9e31-7a11-4000-b645-aff9ecbd907c)
+
+## Chat Page
+Chat features :
+- Username from Login page
+- Generating random color for user's avatar image 
+- Sidebar displaying who's online
+- Input for sending messages
+- Panel displaying messages from all active users
+
+![chat](https://github.com/AnushkaRi/chat-app/assets/93154379/3e5d5f3c-a508-4fb3-b382-22daf66daca6)
