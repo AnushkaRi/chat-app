@@ -1,6 +1,6 @@
 # Chat App - Algebra Final Project
 
-A single-page chat application built with React and Scaledrone. Scaledrone is a library for simple implementation of chat funcionality and realtime messaging service.
+A responsive single-page chat application built with React and Scaledrone. Scaledrone is a library for simple implementation of chat funcionality and realtime messaging service.
 
 Technologies used: React.js, Redux, Router and Scaledrone.
 
